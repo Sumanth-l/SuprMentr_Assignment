@@ -1,0 +1,29 @@
+
+App (Main Component)
+Root component that contains all other components.
+
+Navbar
+Logo
+Search Bar
+Profile Icon
+Notification Icon
+
+Sidebar
+Home
+Shorts
+Subscriptions
+Library
+
+Main Content
+Video Grid
+Each video shown as a Video Card
+
+Video Card
+Thumbnail
+Video Title
+Channel Name
+Views & Time
+
+Footer
+Links
+Copyright information
